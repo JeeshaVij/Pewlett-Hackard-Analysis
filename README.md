@@ -18,20 +18,19 @@ the data modelling, engineering and analysis skills.
 
 1. We got the Retirement Titles table for employees who are born between January 1,1952 and December 31,1955 and it was exported as a csv file
 
-	![retirement_titles](retirement_titles.png)
+    ![retirement_titles](retirement_titles.png)
+    
+2. Because some employees may have multiple titles in the database—for example, due to promotions, a table with unique title was created by the most recent job titles and it was also exported into a csv file of unique titles
 
-2. Because some employees may have multiple titles in the database—for example, due to promotions, a table with unique title was created by the most recent job titles and 
-it was also exported into a csv file of unique titles
-
- 	![unique_titles](unique_titles.png)
+    ![unique_titles](unique_titles.png)
 
 3. A table with Retiring Titles was created that contains the number of titles filled by employees who are retiring and same same exported to a csv file
 
-	![retiring_titles](retiring_titles.png)
-
+    ![retiring_titles](retiring_titles.png)
+    
 4. To get the data of employees who are eligible to participate in a mentorship program, a mentorship-eligibility table was created that holds the current employees who were born between January 1,1965 and December 31,1965.
 
-	![mentorship_eligibilty](mentorship_eligibilty.png)
+    ![mentorship_eligibilty](mentorship_eligibilty.png)
 	
 # Summary
 
