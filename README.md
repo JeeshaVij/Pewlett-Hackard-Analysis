@@ -18,7 +18,7 @@ the data modelling, engineering and analysis skills.
 
 1. We got the Retirement Titles table for employees who are born between January 1,1952 and December 31,1955 and it was exported as a csv file
 
-   
+    ![retirement_titles](retirement_titles.png)
     
 2. Because some employees may have multiple titles in the database—for example, due to promotions, a table with unique title was created by the most recent job titles and it was also exported into a csv file of unique titles
 
