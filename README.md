@@ -20,7 +20,8 @@ the data modelling, engineering and analysis skills.
 
 	![retirement_titles](retirement_titles.png)
 
-2. Because some employees may have multiple titles in the database—for example, due to promotions, a table with unique title was created by the most recent job titles and it was also exported into a csv file of unique titles
+2. Because some employees may have multiple titles in the database—for example, due to promotions, a table with unique title was created by the most recent job titles and 
+it was also exported into a csv file of unique titles
 
  	![unique_titles](unique_titles.png)
 
